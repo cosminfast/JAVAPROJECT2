@@ -22,6 +22,14 @@ public class Main {
 
         System.out.println(3%2);
 
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
     }
 
 }
